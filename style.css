@@ -21,15 +21,15 @@
 
 body{
     display: flex;
+    padding: 120px;
     justify-content: center;
-    background-color: var(--Eggshells);
+    background-color: black;
     font-family: "Young Serif", serif;
 
 }
 
 .container{
     max-width: 735px;
-
     background-color: var(--white);
     border-radius: 20px;
 
