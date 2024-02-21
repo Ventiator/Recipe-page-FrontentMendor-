@@ -23,7 +23,7 @@ body{
     display: flex;
     padding: 120px;
     justify-content: center;
-    background-color: black;
+    background-color: var(--Eggshells);
     font-family: "Young Serif", serif;
 
 }
@@ -168,6 +168,7 @@ p.neww{
 
 h1.nutrition{
     font-size: 28px;
+    color: var(--DarkRaspberry);
 }
 
 
